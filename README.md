@@ -28,112 +28,115 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<h3 align="left">Languages and Tools:</h3>
+
 <table>
   <tr>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/><br>Android
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="55" height="55"/><br>Android
     </td>
-    <td align="center" width="90">
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/><br>Angular
+    <td align="center" width="120">
+      <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="55" height="55"/><br>Angular
     </td>
-    <td align="center" width="90">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/><br>Arduino
+    <td align="center" width="120">
+      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="55" height="55"/><br>Arduino
     </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/><br>AWS
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55"/><br>AWS
     </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/><br>Azure
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="55" height="55"/><br>Azure
     </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/><br>Bash
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br>C
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/><br>CSS
-    </td>
-    <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/><br>Django
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/><br>Docker
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/><br>.NET
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/><br>Express
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="55" height="55"/><br>Bash
     </td>
   </tr>
 
   <tr>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/><br>Figma
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55"/><br>C
     </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/><br>Firebase
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55"/><br>CSS
     </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/><br>Flutter
+    <td align="center" width="120">
+      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="55"/><br>Django
     </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/><br>GCP
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="55"/><br>Docker
     </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br>Git
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="55"/><br>.NET
     </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40"/><br>GraphQL
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/><br>HTML
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br>Java
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/><br>Kotlin
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/><br>Linux
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br>Python
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="55"/><br>Express
     </td>
   </tr>
 
   <tr>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/><br>PyTorch
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="55"/><br>Figma
     </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/><br>TensorFlow
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55"/><br>Firebase
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/><br>React
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="55"/><br>Flutter
     </td>
-    <td align="center">
-      <img src="https://reactnative.dev/img/header_logo.svg" width="40"/><br>React Native
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="55"/><br>GCP
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/><br>TypeScript
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55"/><br>Git
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/><br>Vue
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="55"/><br>GraphQL
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55"/><br>HTML
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55"/><br>Java
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55"/><br>JavaScript
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="55"/><br>Kotlin
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55"/><br>Linux
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/><br>Python
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="55"/><br>PyTorch
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="55"/><br>TensorFlow
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="55"/><br>React
+    </td>
+    <td align="center" width="120">
+      <img src="https://reactnative.dev/img/header_logo.svg" width="55"/><br>React Native
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55"/><br>TypeScript
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="55"/><br>Vue
     </td>
   </tr>
 </table>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayyankhaan&show_icons=true&locale=en&layout=compact" alt="rayyankhaan" /></p>
 
