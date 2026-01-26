@@ -1,144 +1,120 @@
-<h1 align="center">Hi 👋, I'm Rayyan khan</h1>
-<h3 align="center">Aspiring AI & Machine Learning Engineer</h3>
+<h1 align="left">Hey 👋 What's up.?</h1>
 
+###
 
-- 🔭 I’m currently working on **Credit Card Fraud Detection System**
+<p align="left">My name is RayyanKhaan and I'm a student and I'm from hyd..</p>
 
-- 🌱 I’m currently learning **Deep Learning, Advanced Machine Learning, Data Science**
+###
 
-- 👯 I’m looking to collaborate on **AI & Machine Learning Projects**
+<div align="center">
+  <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1jWXsYTijwUVsko7IiuJAoTJRcs1Z9Gb2ew&s"  />
+</div>
 
-- 🤝 I’m looking for help with **Deep Learning Model Optimization**
+###
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rayyankhaan](https://github.com/Rayyankhaan)
+<h2 align="left">About me</h2>
 
-- 📝 I regularly write articles on [I regularly learn and document AI concepts](I regularly learn and document AI concepts)
+###
 
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, AI Concepts**
+<p align="left">🔭 I’m currently working on Credit Card Fraud Detection System<br><br>🌱 I’m currently learning Deep Learning, Advanced Machine Learning, Data Science<br><br>👯 I’m looking to collaborate on AI & Machine Learning Projects<br><br>🤝 I’m looking for help with Deep Learning Model Optimization<br><br>👨‍💻 All of my projects are available at https://github.com/Rayyankhaan<br><br>📝 I regularly write articles on [I regularly learn and document AI concepts](I regularly learn and document AI concepts)<br><br>💬 Ask me about Python, Machine Learning, Deep Learning, AI Concepts</p>
 
-- 📫 How to reach me **Rayyankhaan.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pathan rayyan khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathan rayyan khan" height="30" width="40" /></a>
-<a href="https://instagram.com/prk_432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prk_432" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/515591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="515591" height="30" width="40" /></a>
-</p>
+<h2 align="left">I code with</h2>
 
-<h3 align="left">Languages and Tools:</h3>
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rayyankhaan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rayyankhaan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<table>
-  <tr>
-    <td align="center" width="125">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="60" height="60"/><br>Android
-    </td>
-    <td align="center" width="125">
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="60" height="60"/><br>Angular
-    </td>
-    <td align="center" width="125">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="60" height="60"/><br>Arduino
-    </td>
-    <td align="center" width="125">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60"/><br>AWS
-    </td>
-    <td align="center" width="125">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="60" height="60"/><br>Azure
-    </td>
-    <td align="center" width="125">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="60" height="60"/><br>Bash
-    </td>
-  </tr>
+###
 
-  <tr>
-    <td align="center" width="125">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60"/><br>C
-    </td>
-    <td align="center" width="125">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60"/><br>CSS
-    </td>
-    <td align="center" width="125">
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="60"/><br>Django
-    </td>
-    <td align="center" width="125">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="60"/><br>Docker
-    </td>
-    <td align="center" width="125">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="60"/><br>.NET
-    </td>
-    <td align="center" width="125">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60"/><br>Express
-    </td>
-  </tr>
+<div align="center">
+  <a href="https://www.linkedin.com/in/pathan-rayyan-khan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="prk_432" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="phatanrayyankhan9@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-  <tr>
-    <td align="center" width="125">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60"/><br>Figma
-    </td>
-    <td align="center" width="125">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60"/><br>Firebase
-    </td>
-    <td align="center" width="125">
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60"/><br>Flutter
-    </td>
-    <td align="center" width="125">
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="60"/><br>GCP
-    </td>
-    <td align="center" width="125">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60"/><br>Git
-    </td>
-    <td align="center" width="125">
-      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="60"/><br>GraphQL
-    </td>
-  </tr>
+###
 
-  <tr>
-    <td align="center" width="125">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60"/><br>HTML
-    </td>
-    <td align="center" width="125">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/><br>Java
-    </td>
-    <td align="center" width="125">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/><br>JavaScript
-    </td>
-    <td align="center" width="125">
-      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="60"/><br>Kotlin
-    </td>
-    <td align="center" width="125">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60"/><br>Linux
-    </td>
-    <td align="center" width="125">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/><br>Python
-    </td>
-  </tr>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rayyankhaan/Rayyankhaan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rayyankhaan/Rayyankhaan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rayyankhaan/Rayyankhaan/output/pacman-contribution-graph.svg">
+</picture>
 
-  <tr>
-    <td align="center" width="125">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="60"/><br>PyTorch
-    </td>
-    <td align="center" width="125">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60"/><br>TensorFlow
-    </td>
-    <td align="center" width="125">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60"/><br>React
-    </td>
-    <td align="center" width="125">
-      <img src="https://reactnative.dev/img/header_logo.svg" width="60"/><br>React Native
-    </td>
-    <td align="center" width="125">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60"/><br>TypeScript
-    </td>
-    <td align="center" width="125">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="60"/><br>Vue
-    </td>
-  </tr>
-</table>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayyankhaan&show_icons=true&locale=en&layout=compact" alt="rayyankhaan" /></p>
+<br clear="both">
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&animation=twinkling&desc=PARK!&descSize=32&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayyankhaan&show_icons=true&locale=en" alt="rayyankhaan" /></p>
-
+###
