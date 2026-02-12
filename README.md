@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Credit Card Fraud Detection System<br><br>🌱 I’m currently learning Deep Learning, Advanced Machine Learning, Data Science<br><br>👯 I’m looking to collaborate on AI & Machine Learning Projects<br><br>🤝 I’m looking for help with Deep Learning Model Optimization<br><br>👨‍💻 All of my projects are available at https://github.com/Rayyankhaan<br><br>📝 I regularly write articles on [I regularly learn and document AI concepts](I regularly learn and document AI concepts)<br><br>💬 Ask me about Python, Machine Learning, Deep Learning, AI Concepts</p>
+🌱 I’m currently learning Deep Learning, Advanced Machine Learning, Data Science<br><br>👯 I’m looking to collaborate on AI & Machine Learning Projects<br><br>🤝 I’m looking for help with Deep Learning Model Optimization<br><br>👨‍💻 All of my projects are available at https://github.com/Rayyankhaan<br><br>📝 I regularly write articles on [I regularly learn and document AI concepts](I regularly learn and document AI concepts)<br><br>💬 Ask me about Python, Machine Learning, Deep Learning, AI Concepts</p>
 
 ###
 
