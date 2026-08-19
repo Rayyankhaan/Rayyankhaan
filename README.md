@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is RayyanKhaan and I'm a student and I'm from hyd..</p>
+<p align="left">My name is RayyanKhaan and I'm a student and I'm from ATP..</p>
 
 ###
 
